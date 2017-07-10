@@ -1,0 +1,22 @@
+{
+  "name": "ritwiks-blog",
+  "version": "1.0.0",
+  "description": "Ritwik's Random Reflections",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritwik/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Ritwik Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ritwik/blog/issues"
+  },
+  "homepage": "https://github.com/ritwik/blog#readme"
+}
